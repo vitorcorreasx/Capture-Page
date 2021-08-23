@@ -58,9 +58,7 @@ select{
     background-image: url(./assets/arrow.jpg);
     background-repeat: no-repeat;
     background-position: calc(100% - 10px) center;
-    cursor: pointer;
-
-    
+    cursor: pointer; 
 }
 footer{
     background-color: rgb(37, 37, 37);
@@ -113,9 +111,7 @@ footer{
         }
         .personImage{
             float: none;
-            margin: auto;
-            
-        } 
-        
+            margin: auto;    
+        }   
     }
     
