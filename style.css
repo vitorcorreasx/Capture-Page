@@ -83,7 +83,7 @@ footer{
 .description h3{
     font-size: 24px;
 }
-    @media screen and (max-width: 500px) {
+    @media screen and (max-width: 550px ) {
         .title{
             font-size: 20px;
         }
@@ -94,5 +94,28 @@ footer{
         .description{
             text-align: unset;
         }
+        .personImage{
+                float: left;
+        } 
     }
-   
+    @media screen and (max-width: 420px ) {
+        .title{
+            font-size: 20px;
+        }
+        .formContainer{
+            float: none;
+            margin: auto;
+        }
+        .description{
+            text-align: unset;
+            display: inline;
+            margin: 0;
+        }
+        .personImage{
+            float: none;
+            margin: auto;
+            
+        } 
+        
+    }
+    
