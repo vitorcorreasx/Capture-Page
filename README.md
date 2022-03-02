@@ -1,7 +1,7 @@
 <h1>Página de Captura</h1>
-<p>Projeto de um Workshop fictício proposto pelo Curso ProgramadorBR.<br>
-   Para fins de aprendizado sobre resposividade.
-</p>
+##Projeto de um Workshop fictício proposto pelo Curso ProgramadorBR.
+##Para fins de aprendizado sobre resposividade.
+
 <img alt="CapturePage" title="Page" src="./assets/Animação.gif">
 
 
